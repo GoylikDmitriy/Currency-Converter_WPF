@@ -1,0 +1,12 @@
+D:\university stuffs\VDTPA\bntu.vsrpp.DGoylik.Core\bin\Debug\net6.0-windows\bntu.vsrpp.DGoylik.Core.deps.json
+D:\university stuffs\VDTPA\bntu.vsrpp.DGoylik.Core\bin\Debug\net6.0-windows\bntu.vsrpp.DGoylik.Core.dll
+D:\university stuffs\VDTPA\bntu.vsrpp.DGoylik.Core\bin\Debug\net6.0-windows\bntu.vsrpp.DGoylik.Core.pdb
+D:\university stuffs\VDTPA\bntu.vsrpp.DGoylik.Core\obj\Debug\net6.0-windows\bntu.vsrpp.DGoylik.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\university stuffs\VDTPA\bntu.vsrpp.DGoylik.Core\obj\Debug\net6.0-windows\bntu.vsrpp.DGoylik.Core.AssemblyInfoInputs.cache
+D:\university stuffs\VDTPA\bntu.vsrpp.DGoylik.Core\obj\Debug\net6.0-windows\bntu.vsrpp.DGoylik.Core.AssemblyInfo.cs
+D:\university stuffs\VDTPA\bntu.vsrpp.DGoylik.Core\obj\Debug\net6.0-windows\bntu.vsrpp.DGoylik.Core.csproj.CoreCompileInputs.cache
+D:\university stuffs\VDTPA\bntu.vsrpp.DGoylik.Core\obj\Debug\net6.0-windows\bntu.vsrpp.DGoylik.Core.dll
+D:\university stuffs\VDTPA\bntu.vsrpp.DGoylik.Core\obj\Debug\net6.0-windows\refint\bntu.vsrpp.DGoylik.Core.dll
+D:\university stuffs\VDTPA\bntu.vsrpp.DGoylik.Core\obj\Debug\net6.0-windows\bntu.vsrpp.DGoylik.Core.pdb
+D:\university stuffs\VDTPA\bntu.vsrpp.DGoylik.Core\obj\Debug\net6.0-windows\ref\bntu.vsrpp.DGoylik.Core.dll
+D:\university stuffs\VDTPA\bntu.vsrpp.DGoylik.Core\obj\Debug\net6.0-windows\bntu.vsrpp.DGoylik.Core.csproj.AssemblyReference.cache
